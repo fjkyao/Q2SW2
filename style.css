@@ -1,0 +1,29 @@
+body {
+		background-color: #AA9ABA;
+		font-family: "Parkinsans", sans-serif;
+	}
+
+.container {
+		background-color: lavenderblush;
+		padding: 15px;
+		border-radius: 25px;
+		border: 8px solid lavender;
+		border-radius: 25px;
+		box-shadow: 10px 10px 5px 0px #7F94BB;
+	}
+
+h2 {
+	text-align: center;
+}
+
+#cat{
+	width: 30px;
+}
+
+.form-check{
+	margin-left: 10px;
+}
+
+.comment {
+	column-width: 50px;
+}
